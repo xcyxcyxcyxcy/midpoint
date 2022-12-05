@@ -55,3 +55,28 @@ We are working on the code that using the distance sensor to arouse the people d
 <div align=center><img width="400" height="300" src="https://github.com/xcyxcyxcyxcy/midpoint/blob/main/image/WechatIMG105.jpeg"/></div>
 
 ## Design
+
+- Sketches
+<div align=center><img width="800" height="600" src="https://github.com/xcyxcyxcyxcy/midpoint/blob/main/image/WechatIMG110.jpeg"/></div>
+
+## Troubleshooting
+
+Now we can use distance sensor to trigger the camera in PICO-4ML successfully for one time and we are modifying the code to realize the loop.
+
+- Terminal screenshots
+<div align=center><img width="800" height="200" src="https://github.com/xcyxcyxcyxcy/midpoint/blob/main/image/WechatIMG480.png"/></div>
+
+## Demos
+
+- If the distance between objects and sensor is less than 30CM, the bulbs andn buzzer will turn on.
+
+[video](https://github.com/xcyxcyxcyxcy/midpoint/blob/main/image/对方正在长头发🌚%202022-12-12%2016.16.51.mp4)
+
+- Distance sensor can trigger the camera in PICO-4ML successfully for one time.
+<div align=center><img width="800" height="200" src="https://github.com/xcyxcyxcyxcy/midpoint/blob/main/image/WechatIMG480.png"/></div>
+
+# Diagram
+
+<div align=center><img width="800" height="400" src="https://github.com/xcyxcyxcyxcy/midpoint/blob/main/image/图片%201.png"/></div>
+
+
